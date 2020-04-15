@@ -56,9 +56,10 @@ LinuxOSを使用した方が楽」という理由が主である。
 
 ## 1 Gitの公式ページに行ってインストーラーを取得
 Gitのインストーラーは以下の公式ページに掲載されているので、ダウンロードして取得する。
+
 https://git-scm.com/
 
-![](image\git_inst01.png)
+<img src="./image/git_inst01.png">
 
 
 ## 2 インストーラーを起動してGitをインストール
@@ -107,7 +108,7 @@ Gitのインストールが完了している場合、
 メニュー内に、「Git Bash Here」という項目が追加されているので、
 それをクリックしてGitのコマンドラインを起動する。
 
-![](image\git_inst02.png)
+<img src="./image/git_inst02.png">
 
 コマンドラインが起動したら以下のコマンドをコピペして実行
 
@@ -139,8 +140,7 @@ git config --list --global
 設定した項目値が表示されるので、
 以下の画像と同じようになっていれば、Gitの設定は完了。
 
-![](image\git_inst03.png)
-
+<img src="./image/git_inst03.png">
 
 Git初期設定用フォルダはもう使用しないため、削除して頂いてOK
 
